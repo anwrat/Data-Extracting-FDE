@@ -8,7 +8,7 @@ Extracting data from S3 bucket
 `python -m venv {name-of-virtual-environment}`
 
 ### Run the environment
-`{name-of-environment/Scripts/activate}`
+`{name-of-environment}/Scripts/activate`
 
 ### Install requirements
 `pip install -r requirements.txt`
