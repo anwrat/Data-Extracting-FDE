@@ -11,7 +11,7 @@ Extracting data from S3 bucket
 `name-of-environment/Scripts/activate`
 
 ### Install requirements
-`pip install -r requirements.txt`
+`pip install -r ./Extractor/requirements.txt`
 
 ### Run the main file
-`python main_extractor.py`
+`python -m Extractor.main_extractor`
